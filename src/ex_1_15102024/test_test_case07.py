@@ -3,6 +3,7 @@ import pytest
 import requests
 
 
+
 @allure.title("Test Authentication")
 @allure.description("tc2-verify that get request with id works")
 @pytest.mark.crud

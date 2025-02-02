@@ -4,52 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d55d3fef-7998-4c6d-b952-c6f28035ea19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4xLearningSeleniumprograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1510/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1510/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1510/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/link_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/Global-Superstore.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/fix2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/fixtures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/test_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/framework/test_dotenv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/readme.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_lab00001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case07.py" afterDir="false" />
+    <list default="true" id="d55d3fef-7998-4c6d-b952-c6f28035ea19" name="Changes" comment="selenium">
+      <change afterPath="$PROJECT_DIR$/src/2210/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2210/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2210/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2210/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2210/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2210/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test1t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test2t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test3t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test4t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test5t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test6t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test7t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2410/test8t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2610/test06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/js.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/test12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/test13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/test14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2910/test15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fix2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/fix2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/test_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/framework/test_dotenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html tables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html tables/test001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html tables/test002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html tables/test003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html tables/test004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_dotenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1510/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1510/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1510/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1510/test_lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1510/test_lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1510/test_lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1710/test_lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1710/test_lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/link_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/link_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/new1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/new1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/test_lab1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/test_lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/test_lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/1910/test_lab4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1910/test_lab4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/fix2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/fixtures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/test_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/framework/test_dotenv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case07.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_test_case07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +97,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dibyas83&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dibyas83/PyATB4xlearning&quot;,
+    &quot;accountId&quot;: &quot;95cfce02-5cfb-4edf-87ef-132b48d02796&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -80,72 +123,58 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python tests.Python tests for button.test_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test001.test_webtables.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test04.test_verify_action_makemytrip.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test06.test_verify_action_makemytrip.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test1t.test_alerts_js_alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test3.test_5.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_csv.Test_CRUD.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_csv.Test_CRUD.test_update_2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab001.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab002.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab002.test_sample.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab004.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab005.test_chrome_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_edge_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_firefox_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab007.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab1.test_negative_vwo_login_project2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab3.test_4.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_test_case03.test_verify_subs.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_test_case07.test_create_booking_bug_tc5.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for testlab001.test_sample.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_lab003.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_test_case05.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test12.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/a2z/PycharmProjects/Py4xLearningSeleniumprograms/src/ex_1_15102024/1910&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a2z/PycharmProjects/Py4xLearningSeleniumprograms/src&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src" />
       <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src\ex_1_15102024\1910" />
       <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src\ex_1_15102024" />
       <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src" />
+      <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms" />
+      <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src\ex_1_15102024" />
       <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src\ex_1_15102024\1510" />
       <recent name="C:\Users\a2z\PycharmProjects\Py4xLearningSeleniumprograms\src\ex_1_15102024\framework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab3.test_4">
-    <configuration name="Python tests for button.test_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4xLearningSeleniumprograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/1910" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;button.test_4&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab004.test_open_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4xLearningSeleniumprograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/1710" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab004.test_open_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_lab007.test_chrome_current_url_verification">
     <configuration name="Python tests for test_lab005.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSeleniumprograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/1710" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1710" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -154,42 +183,72 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab1.test_negative_vwo_login_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab006.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSeleniumprograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/1910" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1710" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab1.test_negative_vwo_login_project2&quot;" />
+      <option name="_new_target" value="&quot;test_lab006.test_chrome_current_url_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab3.test_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab006.test_edge_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSeleniumprograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/1910" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1710" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab3.test_4&quot;" />
+      <option name="_new_target" value="&quot;test_lab006.test_edge_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab006.test_firefox_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xLearningSeleniumprograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1710" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab006.test_firefox_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab007.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xLearningSeleniumprograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1710" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab007.test_chrome_current_url_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_lab3.test_4" />
-        <item itemvalue="Python tests.Python tests for button.test_4" />
-        <item itemvalue="Python tests.Python tests for test_lab1.test_negative_vwo_login_project2" />
-        <item itemvalue="Python tests.Python tests for test_lab004.test_open_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_lab007.test_chrome_current_url_verification" />
+        <item itemvalue="Python tests.Python tests for test_lab006.test_firefox_current_url_verification" />
+        <item itemvalue="Python tests.Python tests for test_lab006.test_edge_current_url_verification" />
+        <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_lab005.test_chrome_options" />
       </list>
     </recent_temporary>
@@ -197,7 +256,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -210,6 +269,38 @@
       <option name="presentableId" value="Default" />
       <updated>1729084169606</updated>
     </task>
+    <task id="LOCAL-00001" summary="selenium">
+      <option name="closed" value="true" />
+      <created>1730629607866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730629607866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="selenium">
+      <option name="closed" value="true" />
+      <created>1730629836760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730629836760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
 </project>

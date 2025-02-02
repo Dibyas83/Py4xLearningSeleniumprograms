@@ -1,4 +1,4 @@
-import time
+
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -17,6 +17,7 @@ def test_chrome_current_url_verification():
     # class="btn btn-dark btn-lg">
     # Make Appointment
     # </a> close tag
+
 
     # Find an element given a By strategy and locator.
     # 2- We need to find the unique attribute which can find the web element
